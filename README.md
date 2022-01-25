@@ -30,9 +30,9 @@ deno run https://deno.land/x/factorialize/usage-example.ts
 
 ```ts
 
-import { factorialize } from "https://deno.land/x/factorialize/mod.ts"
+import { factorializeRecursive } from "https://deno.land/x/factorialize/mod.ts"
 
-console.log(factorialize(3)) // 6
+console.log(factorializeRecursive(3)) // 6
 
 
 ```
