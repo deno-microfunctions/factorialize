@@ -14,8 +14,6 @@ console.log(factorialize(3)) // 6
 
 ---
 
----
-
 ## Execute Usage Example  
 
 ```sh
@@ -23,6 +21,8 @@ console.log(factorialize(3)) // 6
 deno run https://deno.land/x/factorialize/usage-example.ts
 
 ```
+
+---
 
 ---
 
@@ -39,8 +39,6 @@ console.log(factorialize(3)) // 6
 
 ---
 
----
-
 ## Execute Usage Example Recursive  
 
 ```sh
@@ -51,6 +49,7 @@ deno run https://deno.land/x/factorialize/usage-example-recursive.ts
 
 ---
 ---
+
 ## Execute Unit Tests  
 
 ```sh
